@@ -37,12 +37,6 @@ My mission is to bridge cloud, AI, and human impact through education and experi
 📍 [LinkedIn](https://linkedin.com/in/xiushi)  
 📝 [Medium](https://medium.com/@janetxiushi)
 
----
-
-## 📖 Medium Companion
-
-Each project is accompanied by a blog post on Medium for deeper context and strategic framing.  
-🔗 [Read on Medium](https://medium.com/@jantexiushi) *(Update this with your actual link)*
 
 ---
 
