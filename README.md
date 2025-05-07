@@ -1,5 +1,5 @@
 
-# 🧠 Xiu(Jant)'s ML Playbook
+# 🧠 Xiu(Janet)'s ML Playbook
 
 Welcome to my open-source Machine Learning playbook — a curated portfolio of projects that blend data-driven insights with real-world business applications.
 
@@ -31,10 +31,10 @@ This repository reflects my transition from SaaS QA leadership to data-powered c
 
 ## 📇 About Me
 
-I'm Xiu — the consultant, the storyteller, the data-powered strategist.  
+I'm Xiu (Janet) — the Creative Technologist, the storyteller, the data-powered strategist.  
 My mission is to bridge cloud, AI, and human impact through education and experimentation.
 
-📍 [LinkedIn](https://linkedin.com/in/xiushi)  
+📍 [LinkedIn](https://linkedin.com/in/janetxiushi)  
 📝 [Medium](https://medium.com/@janetxiushi)
 
 
