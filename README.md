@@ -1,7 +1,7 @@
 
 # 🧠 Xiu(Janet)'s ML Playbook
 
-Welcome to my open-source Machine Learning playbook — a curated portfolio of projects that blend data-driven insights with real-world business applications.
+Welcome to my open-source Machine Learning playbook a curated portfolio of projects that blend data-driven insights with real-world applications.
 
 This repository reflects my transition from SaaS QA leadership to data-powered consulting, focusing on human-centered AI, scalable ML workflows, and storytelling through code.
 
