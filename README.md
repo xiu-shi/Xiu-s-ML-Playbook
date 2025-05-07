@@ -27,6 +27,15 @@ This Github account reflects my transition from a SaaS Enterprise QA lead to dat
 
 > *This repo will evolve as I build new ML notebooks and blog content.*
 
+UK Road Accident Severity Prediction: Machine Learning Analysis and Classification
+https://medium.com/janetxiushi/behind-every-collision-9486e0b7febc
+
+Executive Summary
+Road traffic accidents represent a significant public health concern globally, with substantial economic and social costs. In the UK, understanding and predicting the severity of road accidents is essential for developing effective safety measures and policies. This report analyzes the 2010 UK road accident dataset to identify patterns and develop predictive models for accident severity.
+The analysis employs machine learning techniques to classify accidents into binary categories: "slight" severity versus "serious/fatal" severity. This classification framework enables the application of established machine learning approaches to road safety, where preventing progression from slight to serious/fatal outcomes is the primary goal.
+Due to computational constraints, this project utilized random sampling to reduce data size for model experimentation and validation. Multiple sample sizes were tested, ranging from 5,000 to 30,000 rows. This approach enabled faster iteration while maintaining representation of the class distributions and preserving the integrity of the dataset.
+
+
 > Data source:
 https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles 
 Accident_Information.csv: every line in the file represents a unique traffic accident (identified by the Accident_Index column), featuring various properties related to the accident as columns. Date range: 2005-2017
@@ -34,14 +43,6 @@ Due to the volume of the Accident_Information.csv and local computing power. Dat
 
 Acknowledgements
 Thanks to data.gov.uk for making this information publicly available. Also thanks to Dave Fisher-Hickey for previously publishing, what I consider to be, the first solid and structured version of this dataset on Kaggle.
-
-UK Road Accident Severity Prediction: Machine Learning Analysis and Classification
-
-Executive Summary
-Road traffic accidents represent a significant public health concern globally, with substantial economic and social costs. In the UK, understanding and predicting the severity of road accidents is essential for developing effective safety measures and policies. This report analyzes the 2010 UK road accident dataset to identify patterns and develop predictive models for accident severity.
-The analysis employs machine learning techniques to classify accidents into binary categories: "slight" severity versus "serious/fatal" severity. This classification framework enables the application of established machine learning approaches to road safety, where preventing progression from slight to serious/fatal outcomes is the primary goal.
-Due to computational constraints, this project utilized random sampling to reduce data size for model experimentation and validation. Multiple sample sizes were tested, ranging from 5,000 to 30,000 rows. This approach enabled faster iteration while maintaining representation of the class distributions and preserving the integrity of the dataset.
-
 
 ---
 
