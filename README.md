@@ -1,7 +1,5 @@
-# Xiu-s-ML-Playbook
-Machine Learning portfolio and business applications
 
-# 🧠 Xiu's ML Playbook
+# 🧠 Xiu(Jant)'s ML Playbook
 
 Welcome to my open-source Machine Learning playbook — a curated portfolio of projects that blend data-driven insights with real-world business applications.
 
