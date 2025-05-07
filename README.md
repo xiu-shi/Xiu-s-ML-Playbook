@@ -3,7 +3,7 @@
 
 Welcome to my open-source Machine Learning playbook a curated portfolio of projects that blend data-driven insights with real-world applications.
 
-This repository reflects my transition from SaaS QA leadership to data-powered consulting, focusing on human-centered AI, scalable ML workflows, and storytelling through code.
+This Github account reflects my transition from a SaaS Enterprise QA lead to data-powered consulting, focusing on human-centered AI, scalable ML workflows, and storytelling through code. Exploring the intersection of cloud technology and creative expression. Passionate about building innovative solutions and bringing ideas to life. From behind the lens to behind the stacks. 
 
 ---
 
