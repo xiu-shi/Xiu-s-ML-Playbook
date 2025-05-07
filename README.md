@@ -31,7 +31,7 @@ This repository reflects my transition from SaaS QA leadership to data-powered c
 
 ## 📇 About Me
 
-I'm Xiu (Janet) — the Creative Technologist, the storyteller, the data-powered strategist.  
+I'm Xiu (Janet) — the Creative Technologist, the Data Storyteller, the Data-powered Strategist.  
 My mission is to bridge cloud, AI, and human impact through education and experimentation.
 
 📍 [LinkedIn](https://linkedin.com/in/janetxiushi)  
